@@ -13,11 +13,11 @@ ExpenseFlow is a comprehensive **Personal Finance Management System** built with
 ---
 
 ## 📌 Table of Contents
-- [Technology Stack](#-tech-stack)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Setup & Installation](#-installation)
-- [API Endpoints](#-api-endpoints)
+- [Technology Stack](#-Technology-Stack)
+- [Features](#-Features)
+- [Project Structure](#-Project-structure)
+- [Setup & Installation](#-Setup-&-Installation)
+- [API Endpoints](#-API-Endpoints)
 - [Authentication](#-Authentication)
 - [Testing the API](#-Testing-the-API)
 - [Key Features for Resume](#-Key-Features-for-Resume)
@@ -388,6 +388,7 @@ For questions or support, please open an issue in the repository.
 🔗 LinkedIn: https://www.linkedin.com/in/tejas-amzare
 
 **Built with ❤️ using Spring Boot**
+
 
 
 
