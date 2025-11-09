@@ -62,6 +62,7 @@ ExpenseFlow is a comprehensive **Personal Finance Management System** built with
   - Savings calculations
 
 ### Technical Features
+
 - **RESTful API Design**
   - Clean and intuitive API endpoints
   - Proper HTTP status codes
@@ -374,6 +375,7 @@ For questions or support, please open an issue in the repository.
 🔗 LinkedIn: https://www.linkedin.com/in/tejas-amzare
 
 **Built with ❤️ using Spring Boot**
+
 
 
 
