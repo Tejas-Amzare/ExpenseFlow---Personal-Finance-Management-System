@@ -1,0 +1,4 @@
+Auth\Check\config\jwt\JwtUtils.class
+Auth\Check\AuthCheckApplication.class
+Auth\Check\config\jwt\JwtAuthFilter.class
+Auth\Check\config\SecurityConfig.class
