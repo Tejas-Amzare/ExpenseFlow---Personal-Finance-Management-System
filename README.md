@@ -10,6 +10,34 @@
 
 ExpenseFlow is a comprehensive **Personal Finance Management System** built with Spring Boot. It provides a robust REST API for managing expenses, budgets, categories, and financial analytics. The system features JWT-based authentication, role-based access control, and comprehensive financial reporting capabilities.
 
+---
+
+## 📌 Table of Contents
+- [Technology Stack](#-tech-stack)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Setup & Installation](#-installation)
+- [API Endpoints](#-api-endpoints)
+- [Authentication](#-Authentication)
+- [Testing the API](#-Testing-the-API)
+- [Key Features for Resume](#-Key-Features-for-Resume)
+- [Security Features](#-Security-Features)
+- [License](#-license)
+- [Contact](#-contact)
+
+---
+
+## 🛠️ Technology Stack
+
+- **Backend Framework**: Spring Boot 3.5.6
+- **Language**: Java 17
+- **Database**: MySQL 8.0
+- **ORM**: Spring Data JPA / Hibernate
+- **Security**: Spring Security + JWT
+- **API Documentation**: Swagger/OpenAPI 3
+- **Build Tool**: Maven
+- **Validation**: Jakarta Validation
+  
 ## 🚀 Features
 
 ### Core Functionality
@@ -71,16 +99,6 @@ ExpenseFlow is a comprehensive **Personal Finance Management System** built with
   - Database indexing for performance
   - Automatic schema updates
 
-## 🛠️ Technology Stack
-
-- **Backend Framework**: Spring Boot 3.5.6
-- **Language**: Java 17
-- **Database**: MySQL 8.0
-- **ORM**: Spring Data JPA / Hibernate
-- **Security**: Spring Security + JWT
-- **API Documentation**: Swagger/OpenAPI 3
-- **Build Tool**: Maven
-- **Validation**: Jakarta Validation
 
 ## 📦 Project Structure
 
@@ -352,9 +370,6 @@ curl -X POST http://localhost:8080/api/expenses \
 - [ ] Expense sharing with family members
 - [ ] Integration with banking APIs
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
@@ -373,5 +388,6 @@ For questions or support, please open an issue in the repository.
 🔗 LinkedIn: https://www.linkedin.com/in/tejas-amzare
 
 **Built with ❤️ using Spring Boot**
+
 
 
