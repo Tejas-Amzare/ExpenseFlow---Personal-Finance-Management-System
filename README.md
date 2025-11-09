@@ -361,14 +361,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ## 👤 Author
+Tejas Gajanan Amzare
 
-Developed as a portfolio project demonstrating Spring Boot expertise and REST API development skills.
 
 ## 📞 Contact
 
 For questions or support, please open an issue in the repository.
 
----
+📧 Email: tejasamzare@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/tejas-amzare
 
 **Built with ❤️ using Spring Boot**
+
 
